@@ -3,3 +3,11 @@ speech_emotion_recognition_model.pth
 /*.wav
 temp_*.wav
 .env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+model 
+saved_models
