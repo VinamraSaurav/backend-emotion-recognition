@@ -1,0 +1,5 @@
+venv
+speech_emotion_recognition_model.pth
+/*.wav
+temp_*.wav
+.env

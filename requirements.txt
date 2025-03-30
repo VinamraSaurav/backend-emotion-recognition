@@ -1,0 +1,24 @@
+# Flask and real-time communication
+Flask
+eventlet
+Flask-SocketIO
+Flask-Cors
+
+# Computer vision and image processing
+opencv-python
+numpy
+
+# Audio processing and speech emotion recognition
+librosa
+torch
+transformers
+
+# TensorFlow for facial emotion recognition
+tensorflow
+keras
+
+# Environment variables and HTTP requests
+python-dotenv
+requests
+
+dotenv
